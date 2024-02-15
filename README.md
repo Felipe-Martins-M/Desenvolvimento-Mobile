@@ -4,4 +4,8 @@
 ![prompt](https://img.shields.io/badge/release_date-february-blue)
 
 <h3>Descrição:</h3>
-Print de verificação da versão do java no prompt
+Print de verificação de versão do Java no prompt
+
+<h3>:cd: Tecnologia utilizada:</h3>
+
+- :coffee:``Java 21``
